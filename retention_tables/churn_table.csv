@@ -1,0 +1,47 @@
+platform,last_activity,inactive_days,churn_flag
+"Android OS 7.0 API 24 (Xiaomi, Redmi Note 4)",2022-10-14 15:19:36,860,1
+"Android OS 9 API 28 (Xiaomi, Redmi Note 5 Pro)",2021-11-16 14:13:04,1192,1
+"Android-tablet OS 11 API 30 (SAMSUNG, SM-T870)",2022-10-14 14:13:14,860,1
+"Android-tablet OS 11 API 30 (realme, RMP2102)",2022-10-10 04:24:22,864,1
+"Android-tablet OS 7.0 API 24 (Xiaomi, Redmi Note 4)",2021-03-29 03:42:05,1424,1
+OS X 12.5.0 [arm 2],2022-08-09 19:06:20,925,1
+OS X 12.5.1 [arm 2],2022-09-15 02:14:30,889,1
+OS X 12.6.0 [arm 2],2022-10-14 18:22:40,859,1
+Windows 10 (10.0.18362; x64; AppX),2020-11-04 07:10:36,1569,1
+Windows 10 (10.0.18363; x64; AppX),2020-09-27 04:53:14,1607,1
+Windows 10 (10.0.19041; x64),2020-07-07 16:19:45,1689,1
+Windows 10 (10.0.19041; x64; AppX),2020-08-29 02:50:08,1636,1
+Windows 10 (10.0.19042; x64; AppX),2021-07-30 14:22:06,1301,1
+android,2025-02-04 04:34:38,16,0
+osx,2025-02-20 18:21:00,0,0
+web_player osx 10.15.7;chrome 91.0.4472.114;desktop,2021-07-15 05:09:04,1316,1
+web_player osx 10.15.7;chrome 91.0.4472.164;desktop,2021-07-17 06:13:08,1314,1
+web_player osx 10.15.7;chrome 97.0.4692.99;desktop,2022-02-03 05:19:57,1113,1
+web_player osx 10.15.7;safari 14.1.1;desktop,2021-07-12 15:37:35,1319,1
+web_player osx 10.15.7;safari 15.1;desktop,2022-01-03 12:40:43,1144,1
+web_player osx 10.15.7;safari 15.2;desktop,2022-01-31 13:55:06,1116,1
+web_player osx 10.15.7;safari 15.3;desktop,2022-04-13 18:10:36,1044,1
+web_player osx 10.15.7;safari 15.4;desktop,2022-05-12 17:13:11,1015,1
+web_player osx 10.15.7;safari 15.5;desktop,2022-07-24 07:51:00,942,1
+web_player osx 10.15.7;safari 15.6.1;desktop,2022-08-25 19:00:42,909,1
+web_player osx 10.15.7;safari 15.6;desktop,2022-08-19 18:23:02,915,1
+web_player osx 10.15;firefox 100.0;desktop,2022-05-31 02:30:52,996,1
+web_player osx 10.15;firefox 101.0;desktop,2022-07-03 17:55:59,963,1
+web_player osx 10.15;firefox 103.0;desktop,2022-08-25 17:08:34,910,1
+web_player osx 10.15;firefox 90.0;desktop,2021-08-13 05:05:55,1287,1
+web_player osx 10.15;firefox 91.0;desktop,2021-09-08 06:30:10,1261,1
+web_player osx 10.15;firefox 92.0;desktop,2021-10-05 01:41:57,1234,1
+web_player osx 10.15;firefox 93.0;desktop,2021-11-04 14:56:32,1204,1
+web_player osx 10.15;firefox 94.0;desktop,2021-12-10 07:15:25,1168,1
+web_player osx 10.15;firefox 95.0;desktop,2022-01-15 18:34:29,1131,1
+web_player osx 10.15;firefox 96.0;desktop,2022-02-09 16:19:18,1107,1
+web_player osx 10.15;firefox 97.0;desktop,2022-02-22 17:22:24,1094,1
+web_player osx 10.15;firefox 98.0;desktop,2022-04-06 18:56:47,1050,1
+web_player osx 10.15;firefox 99.0;desktop,2022-05-11 17:27:39,1016,1
+web_player windows 10;chrome 100.0.4896.75;desktop,2022-04-13 05:10:31,1044,1
+web_player windows 10;chrome 89.0.4389.90;desktop,2021-03-24 07:02:22,1429,1
+web_player windows 10;chrome 92.0.4515.107;desktop,2021-07-30 17:15:34,1301,1
+web_player windows 10;microsoft edge 102.0.1245.44;desktop,2022-06-18 18:30:37,977,1
+web_player windows 10;microsoft edge 88.0.705.56;desktop,2021-01-31 14:22:39,1481,1
+web_player windows 10;microsoft edge 89.0.774.57;desktop,2021-04-03 16:04:33,1419,1
+web_player windows 10;microsoft edge 91.0.864.41;desktop,2021-06-10 03:17:16,1351,1
